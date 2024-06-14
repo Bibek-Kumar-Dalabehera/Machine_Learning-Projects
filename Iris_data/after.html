@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Predict</title>
+</head>
+<body bgcolor="aqua">
+    <center>
+        <h1>PREDICTION</h1>
+
+        {% if data == 0 %}
+        <h1>Iris-Setosa</h1>
+        <img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQQB0-TN1HW2F5gbpaYDsHQTN_3z2aUycGdANzPGU14tose23J8" height="300" width="500">            
+        
+        {% else %}
+        
+            {% if data == 1 %}
+            <h1>Iris-Versicolor</h1>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Blue_Flag%2C_Ottawa.jpg/220px-Blue_Flag%2C_Ottawa.jpg height="300" width="500"" >
+
+            {% else %}
+            <h1>Iris-Verginica</h1>
+            <img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRWUd65XxtvQfKkTsMO696NBZAbCnU5zrYippzKXX9J28-X7C-L height="300" width="500"" >
+        
+            {% endif %}   
+
+        {% endif %}
+
+        <br><br>
+        <a href="/">Go Back to Home Page</a>
+    </center>
+    
+</body>
+</html>

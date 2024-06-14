@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home Page</title>
+</head>
+<body bgcolor="aqua">
+    <center>
+        <h1>IRIS FLOWER DETECTION</h1>
+
+        <form method="POST" action="{{url_for('home')}}">
+            <b>Sepal Lenght: <input type="text" id='a' name="a" placeholder="enter 1"><br><br>
+                Sepal Width: <input type="text" id="b" name='b'placeholder="enter 2"><br><br>
+                Petal Length: <input type="text" id="c" name='c'placeholder="enter 3"><br><br>
+                Petal Width: <input type="text" id="d" name='d'placeholder="enter 4"><br><br><br>
+            </b>
+            <input type="submit",value='predict!'>
+        </form>
+        <img src="https://housing.com/news/wp-content/uploads/2022/11/iris-flower-compressed.jpg" alt="flower" width="500" height="300">
+    </center>
+</body>
+</html>
