@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Movie Recommendation System</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #2e2727;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            width: 50%;
+            margin: 100px auto;
+            background-color: #bcecc2;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        h1 {
+            text-align: center;
+        }
+        form {
+            text-align: center;
+        }
+        input {
+            padding: 10px;
+            width: 80%;
+            margin-bottom: 20px;
+        }
+        button {
+            padding: 10px 20px;
+            background-color: #333;
+            color: #fff;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #555;
+        }
+        .movies-list {
+            margin-top: 20px;
+        }
+        .movies-list ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        .movies-list li {
+            background-color: #f9f9f9;
+            margin-bottom: 10px;
+            padding: 10px;
+            border-radius: 5px;
+            border: 1px solid #ddd;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Movie Recommendation System</h1>
+        <form action="/recommend" method="POST">
+            <input type="text" name="movie_name" placeholder="Enter movie name" required>
+            <button type="submit">Recommend</button>
+        </form>
+        
+        {% if movie_name %}
+        <h3>Recommendations for: {{ movie_name }}</h3>
+        {% if recommended_movies %}
+        <div class="movies-list">
+            <ul>
+                {% for movie in recommended_movies %}
+                <li>{{ movie }}</li>
+                {% endfor %}
+            </ul>
+        </div>
+        {% else %}
+        <p>No movies found.</p>
+        {% endif %}
+        {% endif %}
+    </div>
+</body>
+</html>
