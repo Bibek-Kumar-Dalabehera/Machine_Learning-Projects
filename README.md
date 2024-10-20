@@ -7,7 +7,7 @@ Description: Recommends books based on user preferences and previous choices.
 Tech Stack: Flask, Python, Pandas, Scikit-learn, Collaborative Filtering, Content-Based Filtering.
 Key Features:
 User can search for books and get personalized recommendations.
-Includes options for filtering by genre or author.
+Includes options for filtering by genre or author.<br>
 **2. Movie Recommendation System**
 Description: Provides personalized movie recommendations based on user input.
 Tech Stack: Flask, Python, Pandas, Scikit-learn, Collaborative Filtering, Content-Based Filtering.
