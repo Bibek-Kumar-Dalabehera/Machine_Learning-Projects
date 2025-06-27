@@ -29,7 +29,10 @@ Includes model accuracy metrics.<br><br>
 Description: Classifies iris flowers into one of three species based on petal and sepal measurements.
 Tech Stack: Flask, Python, Pandas, Scikit-learn, K-Nearest Neighbors (KNN).
 Key Features:
-Users can input flower <br>measurements and receive a species classification.<br><br><br>
+Users can input flower <br>measurements and receive a species classification.<br><br>
+**5. Dibeties Disease Prediction**
+website-link- https://diabetes-disease-prediction-7pft.onrender.com
+
 
 ### Features
 Each project includes a Flask-based web application for easy interaction.
