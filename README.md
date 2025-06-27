@@ -31,9 +31,9 @@ Tech Stack: Flask, Python, Pandas, Scikit-learn, K-Nearest Neighbors (KNN).
 Key Features:
 Users can input flower <br>measurements and receive a species classification.<br><br>
 **6. Dibeties Disease Prediction**
-website-link- https://diabetes-disease-prediction-7pft.onrender.com
+website-link- https://diabetes-disease-prediction-7pft.onrender.com <br><br>
 **6. Heart Disease Prediction**
-website-link- https://heart-disease-prediction-a84b.onrender.com
+website-link- https://heart-disease-prediction-a84b.onrender.com <br><br>
 
 ### Features
 Each project includes a Flask-based web application for easy interaction.
