@@ -10,7 +10,7 @@
 - **🔍 Description**: Suggests books based on user interests using collaborative & content-based filtering.
 - **🧰 Tech Stack**: Flask, Python, Pandas, Scikit-learn  
 - **✨ Key Features**: Personalized recommendations with genre & author filters.  
-- 🔗 **Live Demo**: *[Add your website link]*
+- 🔗 **Live Demo**: [https://book-recommendation-sytem.onrender.com](https://book-recommendation-sytem.onrender.com)
 
 ---
 
@@ -21,7 +21,7 @@
   - Users can enter favorite movies
   - System suggests similar titles based on similarity score
   - Fast and responsive user interface  
-- 🔗 **Live Demo**: *[Add your website link]*
+- 🔗 **Live Demo**: [https://movie-recommendantion-system.onrender.com](https://movie-recommendantion-system.onrender.com)
 
 ---
 
@@ -29,7 +29,7 @@
 - **🔍 Description**: Predicts house prices based on input features like location, size, etc.
 - **🧰 Tech Stack**: Flask, Python, Pandas, Scikit-learn (Linear Regression)  
 - **✨ Key Features**: Instant predictions with chart comparisons.  
-- 🔗 **Live Demo**: *[Add your website link]*
+- 🔗 **Live Demo**: [https://bengalure-house-price-prediction.onrender.com](https://bengalure-house-price-prediction.onrender.com)
 
 ---
 
@@ -37,7 +37,7 @@
 - **🔍 Description**: Detects spam messages using natural language processing techniques.
 - **🧰 Tech Stack**: Flask, Python, Scikit-learn, NLTK  
 - **✨ Key Features**: Spam or not? Instant classification and accuracy display.  
-- 🔗 **Live Demo**: *[Add your website link]*
+- 🔗 **Live Demo**: [https://sms-spam-detection-1-w56j.onrender.com](https://sms-spam-detection-1-w56j.onrender.com)
 
 ---
 
