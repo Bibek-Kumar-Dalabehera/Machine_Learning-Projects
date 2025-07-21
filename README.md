@@ -3,41 +3,42 @@
 
 ### Projects Overview
 **1. Book Recommendation System** <br>
-Description: Recommends books based on user preferences and previous choices.
-Tech Stack: Flask, Python, Pandas, Scikit-learn, Collaborative Filtering, Content-Based Filtering.
-Key Features:<br>
-User can search for books and get personalized recommendations.
-Includes options for filtering by genre or author.<br><br>
+Description: Recommends books based on user preferences and previous choices.<br>
+Tech Stack: Flask, Python, Pandas, Scikit-learn, Collaborative Filtering, Content-Based Filtering.<br>
+Key Features: User can search for books and get personalized recommendations. Includes options for filtering by genre or author.
+<br><br>
 **2. Movie Recommendation System**
-Description: Provides personalized movie recommendations based on user input.
-Tech Stack: Flask, Python, Pandas, Scikit-learn, Collaborative Filtering, Content-Based Filtering.
-Key Features: <br><br>
-Users can input their favorite movies, and the system suggests similar ones.<br>
+Description: Provides personalized movie recommendations based on user input.<br>
+Tech Stack: Flask, Python, Pandas, Scikit-learn, Collaborative Filtering, Content-Based Filtering.<br>
+Key Features: Users can input their favorite movies, and the system suggests similar ones.
+<br><br>
 **3. House Price Prediction**
-Description: Predicts house prices based on various features like location, size, and number of rooms.
-Tech Stack: Flask, Python, Pandas, Scikit-learn, Linear Regression.
-Key Features:<br>
-Users can input details about a house and get an estimated price.
-Visualization of predicted vs. actual prices.<br><br>
+Description: Predicts house prices based on various features like location, size, and number of rooms.<br>
+Tech Stack: Flask, Python, Pandas, Scikit-learn, Linear Regression.<br>
+Key Features: Users can input details about a house and get an estimated price. Visualization of predicted vs. actual prices.
+<br><br>
 **4. SMS Spam Detection**
-Description: Classifies SMS messages as spam or not spam using natural language processing.
-Tech Stack: Flask, Python, Scikit-learn, Natural Language Toolkit (NLTK), Logistic Regression.
-Key Features:<br>
-Users can input a text message and get an instant spam detection result.
-Includes model accuracy metrics.<br><br>
+Description: Classifies SMS messages as spam or not spam using natural language processing.<br>
+Tech Stack: Flask, Python, Scikit-learn, Natural Language Toolkit (NLTK), Logistic Regression.<br>
+Key Features: Users can input a text message and get an instant spam detection result. Includes model accuracy metrics.
+<br><br>
 **5. Iris Flower Classification**
-Description: Classifies iris flowers into one of three species based on petal and sepal measurements.
-Tech Stack: Flask, Python, Pandas, Scikit-learn, K-Nearest Neighbors (KNN).
-Key Features:
-Users can input flower <br>measurements and receive a species classification.<br><br>
+Description: Classifies iris flowers into one of three species based on petal and sepal measurements.<br>
+Tech Stack: Flask, Python, Pandas, Scikit-learn, K-Nearest Neighbors (KNN).<br>
+Key Features: Users can input flower <br>measurements and receive a species classification.
+<br><br>
 **6. Dibeties Disease Prediction**
-Description: Predicts the likelihood of heart disease based on user input such as age, blood pressure, cholesterol, etc.
-Tech Stack: Flask, Python, Pandas, Scikit-learn, Logistic Regression, Random Forest Classifier.
-Key Features:
-Takes medical input parameters from the user and predicts heart disease risk. Provides an intuitive interface and displays prediction results clearly. <br>
-website-link- https://diabetes-disease-prediction-7pft.onrender.com <br><br>
+Description: Predicts the likelihood of heart disease based on user input such as age, blood pressure, cholesterol, etc.<br>
+Tech Stack: Flask, Python, Pandas, Scikit-learn, Logistic Regression, Random Forest Classifier.<br>
+Key Features: Takes medical input parameters from the user and predicts heart disease risk. Provides an intuitive interface and displays prediction results clearly. <br>
+**website-link-** https://diabetes-disease-prediction-7pft.onrender.com 
+<br><br>
 **6. Heart Disease Prediction**
-website-link- https://heart-disease-prediction-a84b.onrender.com <br><br>
+Description: Predicts whether a person is likely to have diabetes using health-related parameters.<br>
+Tech Stack: Flask, Python, Pandas, Scikit-learn, Decision Tree, Support Vector Machine (SVM).<br>
+Key Features: Collects input like BMI, glucose levels, age, etc., and provides instant diabetes prediction. User-friendly interface for quick and easy assessments.<br>
+website-link- https://heart-disease-prediction-a84b.onrender.com 
+<br><br>
 
 ### Features
 Each project includes a Flask-based web application for easy interaction.
