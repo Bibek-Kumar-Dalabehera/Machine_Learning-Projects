@@ -2,7 +2,7 @@
 **Welcome to my repository of 5 end-to-end machine learning projects, each integrated with a Flask web app for easy user interaction. Below you'll find details on each project, including the purpose, tech stack, how to use the application, and how to set it up locally.**
 
 ### Projects Overview
-**1. Book Recommendation System** <br>
+**1. Book Recommendation System** <br> <br>
 Description: Recommends books based on user preferences and previous choices.<br>
 Tech Stack: Flask, Python, Pandas, Scikit-learn, Collaborative Filtering, Content-Based Filtering.<br>
 Key Features: User can search for books and get personalized recommendations. Includes options for filtering by genre or author.
