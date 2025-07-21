@@ -31,6 +31,10 @@ Tech Stack: Flask, Python, Pandas, Scikit-learn, K-Nearest Neighbors (KNN).
 Key Features:
 Users can input flower <br>measurements and receive a species classification.<br><br>
 **6. Dibeties Disease Prediction**
+Description: Predicts the likelihood of heart disease based on user input such as age, blood pressure, cholesterol, etc.
+Tech Stack: Flask, Python, Pandas, Scikit-learn, Logistic Regression, Random Forest Classifier.
+Key Features:
+Takes medical input parameters from the user and predicts heart disease risk. Provides an intuitive interface and displays prediction results clearly. <br>
 website-link- https://diabetes-disease-prediction-7pft.onrender.com <br><br>
 **6. Heart Disease Prediction**
 website-link- https://heart-disease-prediction-a84b.onrender.com <br><br>
