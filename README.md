@@ -31,13 +31,13 @@ Key Features: Users can input flower <br>measurements and receive a species clas
 Description: Predicts the likelihood of heart disease based on user input such as age, blood pressure, cholesterol, etc.<br>
 Tech Stack: Flask, Python, Pandas, Scikit-learn, Logistic Regression, Random Forest Classifier.<br>
 Key Features: Takes medical input parameters from the user and predicts heart disease risk. Provides an intuitive interface and displays prediction results clearly. <br>
-**website-link-** https://diabetes-disease-prediction-7pft.onrender.com 
+_website-link-_ https://diabetes-disease-prediction-7pft.onrender.com 
 <br><br>
 **6. Heart Disease Prediction**
 Description: Predicts whether a person is likely to have diabetes using health-related parameters.<br>
 Tech Stack: Flask, Python, Pandas, Scikit-learn, Decision Tree, Support Vector Machine (SVM).<br>
 Key Features: Collects input like BMI, glucose levels, age, etc., and provides instant diabetes prediction. User-friendly interface for quick and easy assessments.<br>
-website-link- https://heart-disease-prediction-a84b.onrender.com 
+_website-link_- https://heart-disease-prediction-a84b.onrender.com 
 <br><br>
 
 ### Features
