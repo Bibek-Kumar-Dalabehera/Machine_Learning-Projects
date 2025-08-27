@@ -37,7 +37,7 @@
 - **🔍 Description**: Detects spam messages using natural language processing techniques.
 - **🧰 Tech Stack**: Flask, Python, Scikit-learn, NLTK  
 - **✨ Key Features**: Spam or not? Instant classification and accuracy display.  
-- 🔗 **Live Demo**: [https://sms-spam-detection-1-w56j.onrender.com](https://sms-spam-detection-1-w56j.onrender.com)
+- 🔗 **Live Demo**: [https://sms-spam-ham-prediction.onrender.com](https://sms-spam-ham-prediction.onrender.com)
 
 ---
 
